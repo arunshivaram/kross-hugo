@@ -2,7 +2,7 @@ baseURL = "https://arunshivaram.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Arun Shivaram Pasupathy"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = ""
+author = "Arun Shivaram Pasupathy"
+copyright = "Copyright &copy; 2020.  Thanks to the theme: [gethugothemes](https://gethugothemes.com)"
+description = "An attmept to stake my corner of the world wide web "
+email = ""
 google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
@@ -51,7 +51,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/arun.shivaram"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
