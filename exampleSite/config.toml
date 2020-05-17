@@ -27,6 +27,7 @@ description = "An attmept to stake my corner of the world wide web "
 email = ""
 google_analytics_id = ""
 home = "Home"
+logo = "images/logo.png
 phone = ""
 theme_color = "#41228e"
 [params.contact]
